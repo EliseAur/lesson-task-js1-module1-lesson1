@@ -8,6 +8,8 @@ const instrument = "guitar";
 
 console.log(instrument);
 
+
+
 // Question 2
 // Log the following variable to the console.
 const button = document.querySelector("button.login");
@@ -15,6 +17,8 @@ const button = document.querySelector("button.login");
 console.log(button);
 // use dir instead of log when using Chrome to log elements
 //console.dir(button);
+
+
 
 // Question 3
 // Log the following variable to the console in table format.
@@ -86,7 +90,8 @@ console.log(car["paint-colour"]);
 console.log(car["number of wheels"]);
 
 // Question 10
-// Add a function (method) called getExpired to the object below that logs the expired status of the object.
+// Add a function (method) called getExpired to the object below 
+//that logs the expired status of the object.
 // Call the function after adding it.
 
 const product = {
